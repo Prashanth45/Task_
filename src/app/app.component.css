@@ -1,0 +1,26 @@
+.nonelistStyle{
+  list-style: none;
+}
+.radius{
+  border-radius: 50px;
+  padding: .2rem .5rem;
+  font-size: 13px;
+}
+ul{
+  padding-inline-start: 0;
+}
+.liclass{
+  margin-left: 10px;
+}
+
+.buttonpadding{
+  margin-left:8px;
+}
+.hideborder{
+  border-left: none;
+  border-top: none;
+  border-bottom: none;
+}
+.fontbold{
+  font-weight: bold;
+}
